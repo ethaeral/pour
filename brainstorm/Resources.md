@@ -1,9 +1,4 @@
-Inspirations
-https://www.figma.com/file/ZMEPAwFbnSWDE1SQiNqOVQ/Material-3-Design-Kit-(Community)?node-id=47909%3A2&t=NCUASwomYYNDIgOo-0
-- Pull color scheme and list of components
 
-https://www.behance.net/gallery/115066587/Neumorphism-Glassmorphism-UI-Kit?locale=en_US
-- Pull style and design
 
 https://brittanychiang.com/
 - Pull website components
@@ -12,6 +7,7 @@ https://brittanychiang.com/
         - About
         - Experience
         - Work
+            - kind of nice design
         - Contact
         - CTA Resume
     - Social logo links on the side fixed
